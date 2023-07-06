@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Header = () => {
+const Basket = () => {
     return (
         <div>
-            <h1></h1>
+            basket
         </div>
     );
 }
 
-export default Header;
+export default Basket;
